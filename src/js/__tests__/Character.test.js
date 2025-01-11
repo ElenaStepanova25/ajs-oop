@@ -1,4 +1,4 @@
-import Character from '../character';
+import Character from '../Character';
 test('valid arguments', () => {
   const result = new Character('Character', 'Swordsman');
   expect(result).toEqual({

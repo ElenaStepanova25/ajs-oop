@@ -1,4 +1,4 @@
-import Zombie from '../zombie';
+import Zombie from '../Zombie';
 
 test('valid arguments', () => {
   const result = new Zombie('Character');

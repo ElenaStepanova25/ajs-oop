@@ -1,4 +1,4 @@
-import Bowerman from '../bowerman';
+import Bowerman from '../Bowerman';
 
 test('valid arguments', () => {
   const result = new Bowerman('Character');

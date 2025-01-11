@@ -1,4 +1,4 @@
-import Undead from '../undead';
+import Undead from '../Undead';
 
 test('valid arguments', () => {
   const result = new Undead('Character');

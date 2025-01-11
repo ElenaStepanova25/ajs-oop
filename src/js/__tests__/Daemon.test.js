@@ -1,4 +1,4 @@
-import Daemon from '../daemon';
+import Daemon from '../Daemon';
 
 test('valid arguments', () => {
   const result = new Daemon('Character');

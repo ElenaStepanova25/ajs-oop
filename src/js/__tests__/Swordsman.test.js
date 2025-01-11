@@ -1,4 +1,4 @@
-import Swordsman from '../swordsman';
+import Swordsman from '../Swordsman';
 
 test('valid arguments', () => {
   const result = new Swordsman('Character');
